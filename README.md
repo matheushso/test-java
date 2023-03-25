@@ -25,9 +25,4 @@ O candidato deve ser implementar 2 desafios:
     - Retornar o último nome. Exemplo: Se o nome for "João Soares Silva", deve retornar "Soares Silva".
     - Retornar o nome todo em letras maiúsculas.
     - Retornar o nome abreviado. Exemplo: Se o nome for "João Soares Silva", retornar "João S. Silva".
-        
- TESTES UNITÁRIOS SÃO IMPORTANTES
-    
-Após terminar o candidato deverá versionar a prova no git hub e nos mandar o repositório. 
-* Enviar para: lhsilva@travelexbank.com.br, msales@travelexbank.com.br, bharaujo@travelexbank.com.br, ndavid@travelexbank.com.br, gomesar@travelexbank.com.br
 
