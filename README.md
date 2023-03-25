@@ -4,7 +4,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/51098870/227664909-c1898c4d-4ac6-4fe3-8fb2-7f1f53516d92.png" width="700px" />
 </div>
-
+Documentação da API: arquivo na pasta raiz do projeto "openapi.yaml"
+curl --location 'localhost:8080/api/v1/imc?peso=80&altura=1.90'
 
 Prova de avaliação dos conhecimentos básicos de linguagem Java.
 
