@@ -1,0 +1,42 @@
+openapi: 3.0.0
+info:
+  title: IMC Calculator API
+  description: API for calculating the Body Mass Index (IMC)
+  version: 1.0.0
+servers:
+  - url: http://localhost:8080/
+paths:
+  /imc:
+    get:
+      tags:
+        - IMC
+      summary: Calculates the Body Mass Index (IMC) based on weight and height
+      description: Calculates the Body Mass Index (IMC) based on weight and height values provided as query parameters
+      parameters:
+        - name: peso
+          in: query
+          required: true
+          description: Weight in kilograms
+          schema:
+            type: string
+        - name: altura
+          in: query
+          required: true
+          description: Height in meters
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            text/plain:
+              schema:
+                type: string
+                example: 'Your IMC is: 22.25'
+        '400':
+          description: Bad Request
+          content:
+            text/plain:
+              schema:
+                type: string
+                example: 'The weight/height value entered is invalid'
