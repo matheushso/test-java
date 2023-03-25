@@ -1,5 +1,10 @@
 **Teste de Java Básico com Spring-Boot**
 
+# 📂 Documentação da API
+<div align="center">
+<img src="https://user-images.githubusercontent.com/51098870/227664909-c1898c4d-4ac6-4fe3-8fb2-7f1f53516d92.png" width="700px" />
+</div>
+
 
 Prova de avaliação dos conhecimentos básicos de linguagem Java.
 
@@ -20,9 +25,4 @@ O candidato deve ser implementar 2 desafios:
     - Retornar o último nome. Exemplo: Se o nome for "João Soares Silva", deve retornar "Soares Silva".
     - Retornar o nome todo em letras maiúsculas.
     - Retornar o nome abreviado. Exemplo: Se o nome for "João Soares Silva", retornar "João S. Silva".
-        
- TESTES UNITÁRIOS SÃO IMPORTANTES
-    
-Após terminar o candidato deverá versionar a prova no git hub e nos mandar o repositório. 
-* Enviar para: lhsilva@travelexbank.com.br, msales@travelexbank.com.br, bharaujo@travelexbank.com.br, ndavid@travelexbank.com.br, gomesar@travelexbank.com.br
 
