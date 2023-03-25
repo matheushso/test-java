@@ -2,7 +2,7 @@
 
 # 📂 Documentação da API
 <div align="center">
-<img src="[https://user-images.githubusercontent.com/51098870/227647799-cfee900b-61aa-4142-be84-d2d368c5a6d8.png](https://user-images.githubusercontent.com/51098870/227664543-2d0c1121-66e6-49af-bbfa-57cd04da2471.png)" width="700px" />
+<img src="https://user-images.githubusercontent.com/51098870/227664909-c1898c4d-4ac6-4fe3-8fb2-7f1f53516d92.png" width="700px" />
 </div>
 
 
